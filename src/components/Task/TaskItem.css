@@ -1,0 +1,14 @@
+
+.task-box {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    color: #f0f0f0;
+    background-color: #2f7b76;
+    max-height: fit-content;
+}
+
+.task {
+    margin-right: 2em;
+    
+}
